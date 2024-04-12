@@ -11,6 +11,8 @@ To flip the card and display English, use the space bar as hinted by the text at
 
 This updated wordbank will be saved as 'words-to-learn.csv' in the data folder of this project. However, if you wish to restart you can simply delete 'words-to-learn'.csv for the program to default to the default database.
 
-### Notes
-It is possible to change the flash card pack if you edit the contents of 'jp-en'.csv. Simply follow the format provided of {[Japanese] : Word} and {[English]: Word}
+## Notes
+It is possible to change the flash card pack if you edit the contents of 'jp-en'.csv. Simply follow the format provided of:
+
+ {[Japanese] : Word} and {[English]: Word}
 
