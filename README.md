@@ -16,3 +16,5 @@ It is possible to change the flash card pack if you edit the contents of 'jp-en'
 
  {[Japanese] : Word} and {[English]: Word}
 
+
+The translation for the english if very a wonky, as I used =GOOGLETRANSLATE(column, "auto", "en) in google sheets. So please keep that in mind. Manually translating everything is a lot of work...
